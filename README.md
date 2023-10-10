@@ -32,7 +32,7 @@
  - Highly customizable portfolio. You can easily customize it as you want.     
 
 ## Live Demo 🚀
-[don't click here](https://mrjuice.vercel.app/)
+[don't click here](https://portfolioweb-taupe.vercel.app/)
 
 ## Technologies Used 🖥️
 
